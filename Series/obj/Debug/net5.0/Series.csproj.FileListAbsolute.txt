@@ -1,0 +1,16 @@
+C:\Users\mathe\source\Series\bin\Debug\net5.0\Series.exe
+C:\Users\mathe\source\Series\bin\Debug\net5.0\Series.deps.json
+C:\Users\mathe\source\Series\bin\Debug\net5.0\Series.runtimeconfig.json
+C:\Users\mathe\source\Series\bin\Debug\net5.0\Series.runtimeconfig.dev.json
+C:\Users\mathe\source\Series\bin\Debug\net5.0\Series.dll
+C:\Users\mathe\source\Series\bin\Debug\net5.0\ref\Series.dll
+C:\Users\mathe\source\Series\bin\Debug\net5.0\Series.pdb
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.csproj.AssemblyReference.cache
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.AssemblyInfoInputs.cache
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.AssemblyInfo.cs
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.dll
+C:\Users\mathe\source\Series\obj\Debug\net5.0\ref\Series.dll
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.pdb
+C:\Users\mathe\source\Series\obj\Debug\net5.0\Series.genruntimeconfig.cache
